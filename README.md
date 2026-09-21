@@ -102,7 +102,7 @@ Deployed on [Vercel](https://vercel.com/). `vercel.json` rewrites all routes to 
 
 A city-search weather app built with React 19, React Router, and Tailwind CSS 4. Enter a city name (or use your device's location), and it shows current conditions along with a plain-language recommendation for how to dress or prepare for the day.
 
-**Live demo:** https://elite-weather-app-lyart.vercel.app
+**Live demo:** https://elite-weather-app-rho.vercel.app/
 **Source:** [`Weather_App/elite_weather_app`](https://github.com/MMRSheikh2001/ReactProjects/tree/main/Weather_App/elite_weather_app)
 
 ### Features
