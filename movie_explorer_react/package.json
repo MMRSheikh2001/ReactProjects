@@ -1,5 +1,5 @@
 {
-  "name": "elite_weather_app",
+  "name": "movie_explorer_react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
-     "lottie-react": "^3.1.1",
     "lucide-react": "^1.45.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
