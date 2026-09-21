@@ -5,7 +5,7 @@ A collection of React apps by [MMRSheikh2001](https://github.com/MMRSheikh2001).
 | Project | Description | Live Demo |
 |---|---|---|
 | [🎬 Movie Explorer](#-movie-explorer) | Browse and search a TV show catalog with a details modal | [movie-explorer-react-six.vercel.app](https://movie-explorer-react-six.vercel.app) |
-| [🌤️ Elite Weather App](#️-elite-weather-app) | City-search weather app with condition-based recommendations | [elite-weather-app-lyart.vercel.app](https://elite-weather-app-lyart.vercel.app) |
+| [🌤️ Elite Weather App](#️-elite-weather-app) | City-search weather app with condition-based recommendations | [elite-weather-app-rho.vercel.app](https://elite-weather-app-rho.vercel.app/) |
 
 ---
 
