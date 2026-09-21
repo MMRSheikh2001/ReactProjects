@@ -159,7 +159,7 @@ elite_weather_app/
 ### Getting started
 
 ```bash
-cd Weather_App/elite_weather_app
+cd elite_weather_app
 npm install
 npm run dev
 ```
